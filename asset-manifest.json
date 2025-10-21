@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PaginaWeb/static/css/main.e6c13ad2.css",
-    "main.js": "/PaginaWeb/static/js/main.52ae8ec7.js",
+    "main.js": "/PaginaWeb/static/js/main.09128b0b.js",
     "static/js/453.4b668295.chunk.js": "/PaginaWeb/static/js/453.4b668295.chunk.js",
     "static/media/Almacen.png": "/PaginaWeb/static/media/Almacen.db99acf3d7f4b1b38da4.png",
     "static/media/Ventas.png": "/PaginaWeb/static/media/Ventas.d6abc584846cc7f8118b.png",
@@ -26,11 +26,11 @@
     "static/media/DaxVentas.png": "/PaginaWeb/static/media/DaxVentas.6d7504d45c2c12985279.png",
     "index.html": "/PaginaWeb/index.html",
     "main.e6c13ad2.css.map": "/PaginaWeb/static/css/main.e6c13ad2.css.map",
-    "main.52ae8ec7.js.map": "/PaginaWeb/static/js/main.52ae8ec7.js.map",
+    "main.09128b0b.js.map": "/PaginaWeb/static/js/main.09128b0b.js.map",
     "453.4b668295.chunk.js.map": "/PaginaWeb/static/js/453.4b668295.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.52ae8ec7.js"
+    "static/js/main.09128b0b.js"
   ]
 }
