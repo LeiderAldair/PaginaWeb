@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/PaginaWeb/static/css/main.e6c13ad2.css",
+    "main.js": "/PaginaWeb/static/js/main.52ae8ec7.js",
+    "static/js/453.4b668295.chunk.js": "/PaginaWeb/static/js/453.4b668295.chunk.js",
+    "static/media/Almacen.png": "/PaginaWeb/static/media/Almacen.db99acf3d7f4b1b38da4.png",
+    "static/media/Ventas.png": "/PaginaWeb/static/media/Ventas.d6abc584846cc7f8118b.png",
+    "static/media/Clientes.png": "/PaginaWeb/static/media/Clientes.f6a67e4ba800d2240e18.png",
+    "static/media/Vista cliente.png": "/PaginaWeb/static/media/Vista cliente.2fb69be57a160ac2d875.png",
+    "static/media/VistaProduccion.png": "/PaginaWeb/static/media/VistaProduccion.84597641ba560c7cdfed.png",
+    "static/media/VistaVentas.png": "/PaginaWeb/static/media/VistaVentas.98d78560a2e85bea0e25.png",
+    "static/media/Producción.png": "/PaginaWeb/static/media/Producción.9e6f861342d474476fd0.png",
+    "static/media/RH.png": "/PaginaWeb/static/media/RH.cdb4005e92a76cc77aef.png",
+    "static/media/VistaCompras.png": "/PaginaWeb/static/media/VistaCompras.6be7b5e9662109ed1d10.png",
+    "static/media/Compras.png": "/PaginaWeb/static/media/Compras.ac8d43f11fd90e0a4563.png",
+    "static/media/VistaRRHH.png": "/PaginaWeb/static/media/VistaRRHH.99e6d9f6357d07ddb393.png",
+    "static/media/TablasProduccion.png": "/PaginaWeb/static/media/TablasProduccion.f00fb19ddaef41355491.png",
+    "static/media/Menu.png": "/PaginaWeb/static/media/Menu.b283b6f00ab1155b0155.png",
+    "static/media/TablaVentas.png": "/PaginaWeb/static/media/TablaVentas.a56681a0a184799766bf.png",
+    "static/media/DaxRH.png": "/PaginaWeb/static/media/DaxRH.8924be242e3614460b7a.png",
+    "static/media/TablaCliente.png": "/PaginaWeb/static/media/TablaCliente.d411ee7a73aa18de925f.png",
+    "static/media/DaxCompras.png": "/PaginaWeb/static/media/DaxCompras.47a043c35502070c2804.png",
+    "static/media/TablaCompra.png": "/PaginaWeb/static/media/TablaCompra.4d75925b5638c6d32d48.png",
+    "static/media/TablaRRHH.png": "/PaginaWeb/static/media/TablaRRHH.f37df99dc9e4171c767d.png",
+    "static/media/DaxProduccion.png": "/PaginaWeb/static/media/DaxProduccion.646b86faa0ac72e025c8.png",
+    "static/media/DaxVentas.png": "/PaginaWeb/static/media/DaxVentas.6d7504d45c2c12985279.png",
+    "index.html": "/PaginaWeb/index.html",
+    "main.e6c13ad2.css.map": "/PaginaWeb/static/css/main.e6c13ad2.css.map",
+    "main.52ae8ec7.js.map": "/PaginaWeb/static/js/main.52ae8ec7.js.map",
+    "453.4b668295.chunk.js.map": "/PaginaWeb/static/js/453.4b668295.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.52ae8ec7.js"
+  ]
+}
